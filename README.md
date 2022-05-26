@@ -23,3 +23,7 @@ Ex2: sendo n=3
                   u= (-1,2,-3) e v= (2,-2,2)
                   Alfa = 157,792342
                   Alfa em graus = 22,207658
+
+
+# arquivo original
+[Atividade1_BSI_Mat_Aplicada.pdf](https://github.com/Pachebel/exercicio_algebra/files/8780241/Atividade1_BSI_Mat_Aplicada.pdf)
