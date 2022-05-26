@@ -26,4 +26,5 @@ Ex2: sendo n=3
 
 
 # arquivo original
-[Atividade1_BSI_Mat_Aplicada.pdf](https://github.com/Pachebel/exercicio_algebra/files/8780241/Atividade1_BSI_Mat_Aplicada.pdf)
+
+![image](https://user-images.githubusercontent.com/89677437/170524434-cd81262d-86b4-49d9-bc81-1744f1510b94.png)
